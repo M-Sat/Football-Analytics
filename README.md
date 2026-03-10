@@ -40,7 +40,7 @@ football_analytics/
 **Prerequisites:** Python 3.10+, Google Chrome, and a matching [ChromeDriver](https://chromedriver.chromium.org/downloads) on your PATH.
 
 ```bash
-git clone https://github.com/your-username/football-analytics.git
+git clone https://github.com/M-Sat/football-analytics.git
 cd football-analytics
 pip install -r requirements.txt
 ```
