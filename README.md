@@ -2,9 +2,6 @@
 
 A desktop scouting tool that scrapes live statistics from SofaScore across 12 European leagues, computes advanced non-penalty metrics, and surfaces transfer targets through three customisable recruitment strategies.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## Features
