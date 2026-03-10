@@ -1,4 +1,4 @@
-# Football Analytics Dashboard
+# Football Analytics
 
 A desktop scouting tool that scrapes live statistics from SofaScore across 12 European leagues, computes advanced non-penalty metrics, and surfaces transfer targets through three customisable recruitment strategies.
 
