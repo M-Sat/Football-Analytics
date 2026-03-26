@@ -99,7 +99,7 @@ class ScoutingDashboard:
 
     def _run_scraper(self):
         try:
-            subprocess.run([sys.executable, "new\\scraper.py"], check=True)
+            subprocess.run([sys.executable, "scraper.py"], check=True)
             self.root.after(0, self._finish_update, True)
         except Exception as e:
             self.root.after(0, self._finish_update, False, str(e))
