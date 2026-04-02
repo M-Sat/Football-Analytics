@@ -15,6 +15,14 @@ A desktop scouting tool that scrapes live statistics from SofaScore across 12 Eu
 
 ---
 
+## Screenshots
+
+![Graph view](screenshots/S1.jpg)
+![Stats view](screenshots/S2.jpg)
+![Shortlist view](screenshots/S3.jpg)
+
+---
+
 ## Leagues Covered
 
 Austria · Belgium · Croatia · Czechia · Denmark · Greece · Netherlands · Poland · Portugal · Scotland · Switzerland · Turkey
