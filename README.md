@@ -98,13 +98,3 @@ On first launch click **Update Data** in the dashboard — this runs the scraper
 All shortlist candidates must be aged 29 or under with a market value below 15M €.
 
 ---
-
-## Dependencies
-
-See `requirements.txt`. Key packages: `selenium`, `pandas`, `matplotlib`, `Pillow`.
-
----
-
-## Disclaimer
-
-This project is for educational and personal use only. Data is sourced from [SofaScore](https://www.sofascore.com). This tool is not affiliated with or endorsed by SofaScore.
