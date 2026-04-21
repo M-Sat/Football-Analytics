@@ -95,6 +95,4 @@ On first launch click **Update Data** in the dashboard — this runs the scraper
 | The Execution Experts | NPxG Overperf > 2, NP Fin Ratio > 0.2 | Fin Ratio 35%, Overperf 15%, Shot Qual 10%, Age 20%, Value 20% |
 | The Volume Vanguards | NPG > 10, NPxG > 10, NPxG/90 > 0.2 | NPG 25%, NPxG 25%, NPxG/90 10%, Age 20%, Value 20% |
 
-All shortlist candidates must be aged 29 or under with a market value below 15M €.
-
 ---
