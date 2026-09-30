@@ -4,6 +4,14 @@ A desktop scouting tool that scrapes live statistics from SofaScore across 12 Eu
 
 ---
 
+## Screenshots
+
+![Graph view](screenshots/S1.jpg)
+![Stats view](screenshots/S2.jpg)
+![Shortlist view](screenshots/S3.jpg)
+
+---
+
 ## Features
 
 - **Live data** — fetches top scorer statistics directly from the SofaScore API via Selenium
@@ -12,14 +20,6 @@ A desktop scouting tool that scrapes live statistics from SofaScore across 12 Eu
 - **Graph mode** — top 10 players per metric visualised as horizontal bar charts
 - **Stats mode** — full sortable table of all players across all leagues
 - **Shortlist mode** — filters candidates by age (≤29) and market value (≤15M €), recommends a best buy per strategy
-
----
-
-## Screenshots
-
-![Graph view](screenshots/S1.jpg)
-![Stats view](screenshots/S2.jpg)
-![Shortlist view](screenshots/S3.jpg)
 
 ---
 
